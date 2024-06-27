@@ -1,0 +1,14 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "main": "change.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss styles/style.css -w"
+  },
+  "author": "Caisere",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
